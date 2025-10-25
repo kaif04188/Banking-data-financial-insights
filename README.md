@@ -23,7 +23,7 @@ This project leverages Power BI to provide in-depth financial insights for banki
 - **DAX (Data Analysis Expressions)**: For advanced data analysis and calculations.
 - **EDA (Exploratory Data Analysis)**: For initial data exploration and understanding.
 - **Data Cleaning**: Ensuring data quality and consistency.
-
+- **MYSQL** Ran Queries For Analyzing The data.
 ## Methodology
 1. **Data Import and Quality Check**: Imported both datasets into Power BI and checked for data quality issues.
 2. **Data Cleaning**: Removed failed transactions and standardized transaction amounts.
